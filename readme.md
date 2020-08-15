@@ -2,7 +2,7 @@
 
 ## Hindi-English
 
-1. [IITB Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/)
+1. [IITB Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): v3.0 released !!
 1. [Wiki Matrix Comparable Corpus](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)
 1. [HindEnCorp 0.5](http://ufallab.ms.mff.cuni.cz/~bojar/hindencorp/)
 1. [WMT-14 Development and Test set](http://www.statmt.org/wmt14/translation-task.html)
