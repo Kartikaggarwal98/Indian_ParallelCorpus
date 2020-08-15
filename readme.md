@@ -11,6 +11,7 @@
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): en, bn, gu, ml, mr, or, pa, ta, te, ur
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): en, bn, gu, ml, mr, or, pa, ta, te, ur
 1. [Asian Language Treebank (ALT) Parallel Corpus](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
+1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`
 1. [IIITH Code-Mix Hi-En Corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus)
 
@@ -23,6 +24,7 @@
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
 1. [Asian Language Treebank (ALT) Parallel Corpus](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `bn`
+1. [SUPARA 0.8M](https://ieee-dataport.org/documents/supara08m-balanced-english-bangla-parallel-corpus): Requires an IEEE DataPort Subscription
 
 ## Gujarati-English
 
@@ -31,18 +33,23 @@
 1. [Tsardia](https://github.com/shahparth123/eng_guj_parallel_corpus)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): en, bn, hi, ml, mr, or, pa, ta, te, ur
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): en, bn, hi, ml, mr, or, pa, ta, te, ur
+1. [Shahparth123](https://github.com/shahparth123/eng_guj_parallel_corpus)
+1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `gu`
 
 ## Kannada-English
 
 1. [Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
+1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `kn`
+
 
 ## Marathi-English
 
 1. [Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): en, bn, gu, hi, ml, or, pa, ta, te, ur
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): en, bn, gu, hi, ml, or, pa, ta, te, ur
+1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `mr`
 
 ## Malayalam-English
@@ -53,6 +60,7 @@
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): en, bn, gu, hi, mr, or, pa, ta, te, ur
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
 1. [English_Malayalam_ParallelCorpora](https://github.com/anziasharaf/English_Malayalam_ParallelCorpora)
+1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `ml`
 
 ## Oriya-English
@@ -90,4 +98,5 @@
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/pib-v0.tar): en, bn, gu, hi, ml, mr, or, pa, ta, ur
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/resources/datasets/mkb-v0.tar): en, bn, gu, hi, ml, mr, or, pa, ta, ur
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
+1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `te`
