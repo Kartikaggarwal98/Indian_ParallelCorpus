@@ -14,6 +14,7 @@
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`
 1. [IIITH Code-Mix Hi-En Corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus)
+1. [English-Hindi Flickr 8k](https://github.com/madaan/PML4DC-Comparable-Data-Collection)
 
 ## Bengali-English
 
