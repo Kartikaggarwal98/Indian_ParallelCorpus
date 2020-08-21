@@ -14,6 +14,7 @@
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`. [ Some of the corpus are part of IITB Parallel Corpus.]
 1. [IIITH Code-Mix Hi-En Corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus)
 1. [English-Hindi Flickr 8k](https://github.com/madaan/PML4DC-Comparable-Data-Collection): Multimodal Dataset
+1. [Hindi-Gondi Parallel Corpus](http://cgnetswara.org/hindi-gondi-corpus.html)
 
 ## Bengali-English
 
