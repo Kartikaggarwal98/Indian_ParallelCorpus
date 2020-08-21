@@ -8,6 +8,7 @@
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [Asian Language Treebank (ALT) Parallel Corpus](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [Wiki Matrix Comparable Corpus](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`. [ Some of the corpus are part of IITB Parallel Corpus.]
@@ -22,6 +23,7 @@
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, gu, hi, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
 1. [Asian Language Treebank (ALT) Parallel Corpus](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `bn`
 1. [SUPARA 0.8M](https://ieee-dataport.org/documents/supara08m-balanced-english-bangla-parallel-corpus): Requires an IEEE DataPort Subscription
 
@@ -33,12 +35,14 @@
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, hi, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, hi, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [Shahparth123](https://github.com/shahparth123/eng_guj_parallel_corpus)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `gu`
 
 ## Kannada-English
 
 1. [Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `kn`
 
@@ -48,6 +52,7 @@
 1. [Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `mr`
 
@@ -59,6 +64,7 @@
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
 1. [English_Malayalam_ParallelCorpora](https://github.com/anziasharaf/English_Malayalam_ParallelCorpora)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `ml`
 
@@ -69,12 +75,14 @@
 1. [IndoWordnet Parallel Corpus](https://github.com/anoopkunchukuttan/indowordnet_parallel)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `or`
 
 ## Punjabi-English
 
 1. [Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Punjabi-English Corpus](https://github.com/ssokhey/english-punjabi-corpus)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `pa`
 
 ## Tamil-English
@@ -87,7 +95,9 @@
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, or, pa, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
 1. [Multiple Dataset Links](https://github.com/praveenjune17/English_Tamil_parallel_corpus)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [En-Ta Parallel Corpus](https://github.com/achchuthany/En-Ta-Parallel-Corpus)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `ta`
 
 ## Telugu-English
@@ -97,5 +107,18 @@
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, or, pa, ta, ur. [Source-code, pretrained models and other resources also available.]
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, or, pa, ta, ur. [Source-code, pretrained models and other resources also available.]
 1. [Indian-Language Dataset](https://github.com/himanshudce/Indian-Language-Dataset)
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `te`
+
+## Assamese-English
+
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
+
+## Manipuri-English
+
+1. [PMIndia Corpus](http://data.statmt.org/pmindia/)
+
+# Other Resources
+
+1. [PMIndia Parallel Corpus Creation](https://github.com/bhaddow/pmindia-crawler): Code for creating a parallel corpus from pmindia.gov.in. [[Paper Link]](https://arxiv.org/abs/2001.09907)
