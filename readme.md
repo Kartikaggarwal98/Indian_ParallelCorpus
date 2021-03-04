@@ -1,6 +1,6 @@
 # Parallel Corpus for Indian Languages
 
-Available parallel data for training machine translation models in indic languages: Hindi, Bengali, Gujarati, [Gondi](https://en.wikipedia.org/wiki/Gondi_language), Kannada, Manipuri, Marathi, Malayalam, Oriya, Punjabi, Tamil, Telugu
+Available parallel data for training machine translation models in indic languages: Hindi, Bengali, Gujarati, [Gondi](https://en.wikipedia.org/wiki/Gondi_language), Kannada, Manipuri, Marathi, Malayalam, Oriya, Punjabi, Sanskrit, Tamil, Telugu.
 
 ## Assamese-X
 
@@ -27,6 +27,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Bengali-X
 
+1. [Bn-En BEUT Parallel corpus](https://github.com/csebuetnlp/banglanmt): 2.75million pairs of bengali-english sentences @EMNLP 2020
 1. [Bn-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Bn-En Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, gu, hi, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
