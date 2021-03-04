@@ -1,5 +1,12 @@
 # Parallel Corpus for Indian Languages
 
+Available parallel data for training machine translation models in indic languages: Hindi, Bengali, Gujarati, [Gondi](https://en.wikipedia.org/wiki/Gondi_language), Kannada, Manipuri, Marathi, Malayalam, Oriya, Punjabi, Tamil, Telugu
+
+## Assamese-X
+
+1. [As-En PMIndia Corpus](http://data.statmt.org/pmindia/)
+1. [As-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row asm-eng.
+
 ## Hindi-X
 
 1. [Hi-En IITB Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): v3.0 released !!
@@ -12,10 +19,11 @@
 1. [Hi-En Bible Corpus](http://christos-c.com/bible/)
 1. [Hi-En Wiki Matrix Comparable Corpus](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)
 1. [Hi-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`. [ Some of the corpus are part of IITB Parallel Corpus.]
-1. [Hi-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row hin-eng.
+1. [Hi-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row hin-eng.
 1. [IIITH Code-Mix Hi-En Corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus)
 1. [Hi-En Flickr 8k](https://github.com/madaan/PML4DC-Comparable-Data-Collection): Multimodal Dataset
-1. [Hindi-Gondi Parallel Corpus](http://cgnetswara.org/hindi-gondi-corpus.html)
+1. [Hi-San parallel corpus](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Hindi-Sanskrit monolingual and parallel data from Ramayana, Rigveda, Bhagvad Gita, etc.
+
 
 ## Bengali-X
 
@@ -28,7 +36,7 @@
 1. [Bn-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Bn-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `bn`
 1. [Bn-En SUPARA 0.8M](https://ieee-dataport.org/documents/supara08m-balanced-english-bangla-parallel-corpus): Requires an IEEE DataPort Subscription
-1. [Bn-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row ben-eng.
+1. [Bn-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row ben-eng.
 
 ## Gujarati-X
 
@@ -41,7 +49,11 @@
 1. [Gu-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Gu-En Bible Corpus](http://christos-c.com/bible/)
 1. [Gu-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `gu`
-1. [Gu-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row guj-eng.
+1. [Gu-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row guj-eng.
+
+## Gondi-X
+
+1. [Gondi-Hindi Parallel Corpus](http://cgnetswara.org/hindi-gondi-corpus.html)
 
 ## Kannada-X
 
@@ -49,7 +61,11 @@
 1. [Kn-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Kn-En Bible Corpus](http://christos-c.com/bible/)
 1. [OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `kn`
-1. [Kn-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row kan-eng.
+1. [Kn-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row kan-eng.
+
+## Manipuri-X
+
+1. [Mn-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 
 ## Marathi-X
 
@@ -59,7 +75,7 @@
 1. [Mr-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Mr-En Bible Corpus](http://christos-c.com/bible/)
 1. [Mr-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `mr`
-1. [Mr-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row mar-eng.
+1. [Mr-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row mar-eng.
 
 ## Malayalam-X
 
@@ -72,7 +88,7 @@
 1. [Ml-en PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Ml-en Bible Corpus](http://christos-c.com/bible/)
 1. [Ml-en OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `ml`
-1. [Ml-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row mal-eng.
+1. [Ml-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row mal-eng.
 
 ## Oriya-X
 
@@ -84,7 +100,7 @@
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [Or-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Or-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `or`
-1. [Or-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row ori-eng.
+1. [Or-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row ori-eng.
 
 ## Punjabi-X
 
@@ -92,7 +108,11 @@
 1. [Pu-En Punjabi-English Corpus](https://github.com/ssokhey/english-punjabi-corpus)
 1. [Pu-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Pu-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `pa`
-1. [Pu-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row pan-eng.
+1. [Pu-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row pan-eng.
+
+## Sanskrit-X
+
+1. [San-Hi parallel corpus](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Sanskrit Hindi monolingual and parallel data from Ramayana, Rigveda, Bhagvad Gita, etc.
 
 ## Tamil-X
 
@@ -108,7 +128,7 @@
 1. [Ta-En Parallel Corpus](https://github.com/achchuthany/En-Ta-Parallel-Corpus)
 1. [Ta-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Ta-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `ta`
-1. [Ta-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row tam-eng.
+1. [Ta-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row tam-eng.
 
 
 ## Telugu-X
@@ -121,17 +141,9 @@
 1. [Te-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Te-En Bible Corpus](http://christos-c.com/bible/)
 1. [Te-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `te`
-1. [Te-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row tel-eng.
+1. [Te-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row tel-eng.
 
 
-## Assamese-X
-
-1. [As-En PMIndia Corpus](http://data.statmt.org/pmindia/)
-1. [As-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md) Parallel data obtained by backtranslation on monolingual data. Row asm-eng.
-
-## Manipuri-X
-
-1. [Mn-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 
 # Other Resources
 
