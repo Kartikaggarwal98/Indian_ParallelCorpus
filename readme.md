@@ -4,29 +4,13 @@ Available parallel data for training machine translation models in indic languag
 
 ## Assamese-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [As-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [As-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row asm-eng.
 
-## Hindi-X
-
-1. [Hi-En IITB Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): v3.0 released !!
-1. [Hi-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
-1. [Hi-En Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
-1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
-1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
-1. [Hi-En Asian Language Treebank (ALT) Parallel Corpus](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
-1. [Hi-En PMIndia Corpus](http://data.statmt.org/pmindia/)
-1. [Hi-En Bible Corpus](http://christos-c.com/bible/)
-1. [Hi-En Wiki Matrix Comparable Corpus](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)
-1. [Hi-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`. [ Some of the corpus are part of IITB Parallel Corpus.]
-1. [Hi-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row hin-eng.
-1. [IIITH Code-Mix Hi-En Corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus)
-1. [Hi-En Flickr 8k](https://github.com/madaan/PML4DC-Comparable-Data-Collection): Multimodal Dataset
-1. [Hi-San parallel corpus](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Hindi-Sanskrit monolingual and parallel data from Ramayana, Rigveda, Bhagvad Gita, etc.
-
-
 ## Bengali-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Bn-En BEUT Parallel corpus](https://github.com/csebuetnlp/banglanmt): 2.75million pairs of bengali-english sentences @EMNLP 2020
 1. [Bn-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Bn-En Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
@@ -41,6 +25,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Gujarati-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Gu-En WikiTitles Parallel Corpus](http://data.statmt.org/wikititles/v1/) : wikititles-v1.gu-en.tsv.gz	
 1. [Gu-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Gu-En Tsardia](https://github.com/shahparth123/eng_guj_parallel_corpus)
@@ -56,8 +41,27 @@ Available parallel data for training machine translation models in indic languag
 
 1. [Gondi-Hindi Parallel Corpus](http://cgnetswara.org/hindi-gondi-corpus.html)
 
+## Hindi-X
+
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
+1. [Hi-En IITB Parallel Corpus](http://www.cfilt.iitb.ac.in/iitb_parallel/): v3.0 released !!
+1. [Hi-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
+1. [Hi-En Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
+1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
+1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, ml, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
+1. [Hi-En Asian Language Treebank (ALT) Parallel Corpus](http://www2.nict.go.jp/astrec-att/member/mutiyama/ALT/)
+1. [Hi-En PMIndia Corpus](http://data.statmt.org/pmindia/)
+1. [Hi-En Bible Corpus](http://christos-c.com/bible/)
+1. [Hi-En Wiki Matrix Comparable Corpus](https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix)
+1. [Hi-En OPUS](http://opus.nlpl.eu/): Set source as `en` and target as `hi`. [ Some of the corpus are part of IITB Parallel Corpus.]
+1. [Hi-En Backtranslated Tatoeba Challenge](https://github.com/Helsinki-NLP/Tatoeba-Challenge/blob/master/Backtranslations.md): Parallel data obtained by backtranslation on monolingual data. Row hin-eng.
+1. [IIITH Code-Mix Hi-En Corpus](https://github.com/mrinaldhar/en-hi-codemixed-corpus)
+1. [Hi-En Flickr 8k](https://github.com/madaan/PML4DC-Comparable-Data-Collection): Multimodal Dataset
+1. [Hi-San parallel corpus](https://github.com/priyanshu2103/Sanskrit-Hindi-Machine-Translation): Hindi-Sanskrit monolingual and parallel data from Ramayana, Rigveda, Bhagvad Gita, etc.
+
 ## Kannada-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Kn-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Kn-En PMIndia Corpus](http://data.statmt.org/pmindia/)
 1. [Kn-En Bible Corpus](http://christos-c.com/bible/)
@@ -70,6 +74,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Marathi-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Mr-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
 1. [CVIT-IIITH Mann ki Baat Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
@@ -80,6 +85,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Malayalam-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Ml-en Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, mr, or, pa, ta, te, ur. [Source-code, pretrained models and other resources also available.]
@@ -93,6 +99,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Oriya-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Or-En MTEnglish2Odia](https://github.com/OdiaWikimedia/English-Odia)
 1. [Or-En OdiEnCorp 2.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3211)
 1. [Or-En OdiEnCorp 1.0](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2879)
@@ -105,6 +112,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Punjabi-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Pu-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Pu-En Punjabi-English Corpus](https://github.com/ssokhey/english-punjabi-corpus)
 1. [Pu-En PMIndia Corpus](http://data.statmt.org/pmindia/)
@@ -117,6 +125,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Tamil-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Ta-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Ta-En Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
 1. [Ta-En National Language Process Center](https://github.com/nlpcuom/English-Tamil-Parallel-Corpus)
@@ -134,6 +143,7 @@ Available parallel data for training machine translation models in indic languag
 
 ## Telugu-X
 
+1. [Samaantar Corpus](https://indicnlp.ai4bharat.org/samanantar/)
 1. [Te-En Project Anuvaad](https://github.com/project-anuvaad/parallel-corpus)
 1. [Te-En Indian Parallel Corpora](https://github.com/joshua-decoder/indian-parallel-corpora)
 1. [CVIT-IIITH PIB Multilingual Corpus](http://preon.iiit.ac.in/~jerin/bhasha/): en, bn, gu, hi, ml, mr, or, pa, ta, ur. [Source-code, pretrained models and other resources also available.]
